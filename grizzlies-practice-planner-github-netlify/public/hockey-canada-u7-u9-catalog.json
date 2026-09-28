@@ -1,0 +1,4701 @@
+[
+  {
+    "id": "hc-001-organize-and-basic-stance",
+    "name": "Organize and Basic Stance",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-01-e.pdf#drill=organize-and-basic-stance-u7-01",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-002-t-push",
+    "name": "T-Push",
+    "type": "Station",
+    "focuses": [
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-01-e.pdf#drill=t-push-u7-01",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-003-free-skate",
+    "name": "Free Skate",
+    "type": "Warmup",
+    "focuses": [
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-01-e.pdf#drill=free-skate-u7-01",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-004-getting-up-and-balance",
+    "name": "Getting Up and Balance",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Balance"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Balance. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-01-e.pdf#drill=getting-up-and-balance-u7-01",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-005-don-t-wake-the-giant",
+    "name": "Don't Wake the Giant",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-01-e.pdf#drill=don-t-wake-the-giant-u7-01",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-006-c-cuts",
+    "name": "C-Cuts",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-01-e.pdf#drill=c-cuts-u7-01",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-007-fetch",
+    "name": "Fetch",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-01-e.pdf#drill=fetch-u7-01",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-008-tour-bus",
+    "name": "Tour Bus",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-01-e.pdf#drill=tour-bus-u7-01",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-009-getting-up-basic-stance",
+    "name": "Getting Up / Basic Stance",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-02-e.pdf#drill=getting-up-basic-stance-u7-02",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-010-balance-and-agility",
+    "name": "Balance and Agility",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Agility",
+      "Balance"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Agility, Balance. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-02-e.pdf#drill=balance-and-agility-u7-02",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-011-fall-down",
+    "name": "Fall Down",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-02-e.pdf#drill=fall-down-u7-02",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-012-gliding-2-foot-1-foot",
+    "name": "Gliding - 2 Foot / 1 Foot",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Balance"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Balance. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-02-e.pdf#drill=gliding-2-foot-1-foot-u7-02",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-013-british-bulldog",
+    "name": "British Bulldog",
+    "type": "Game",
+    "focuses": [
+      "Battle",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7/U9 practice-plan drill. Primary focus: Battle, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-02-e.pdf#drill=british-bulldog-u7-02",
+    "favorite": false,
+    "ages": [
+      "U7",
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-014-edge-control",
+    "name": "Edge Control",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-03-e.pdf#drill=edge-control-u7-03",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-015-obstacle-course",
+    "name": "Obstacle Course",
+    "type": "Station",
+    "focuses": [
+      "Agility"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Agility. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-03-e.pdf#drill=obstacle-course-u7-03",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-016-scooting",
+    "name": "Scooting",
+    "type": "Station",
+    "focuses": [
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-03-e.pdf#drill=scooting-u7-03",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-017-c-cuts-alternating",
+    "name": "C-Cuts Alternating",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-03-e.pdf#drill=c-cuts-alternating-u7-03",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-018-one-o-clock-eleven-o-clock-stop",
+    "name": "One O'Clock - Eleven O'Clock Stop",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Stopping"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Stopping. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-03-e.pdf#drill=one-o-clock-eleven-o-clock-stop-u7-03",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-019-cops-and-robbers",
+    "name": "Cops and Robbers",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-03-e.pdf#drill=cops-and-robbers-u7-03",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-020-striding",
+    "name": "Striding",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-04-e.pdf#drill=striding-u7-04",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-021-gliding-arm-pump",
+    "name": "Gliding - Arm Pump",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Balance"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Balance. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-04-e.pdf#drill=gliding-arm-pump-u7-04",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-022-glide-turns",
+    "name": "Glide Turns",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Balance"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Balance. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-04-e.pdf#drill=glide-turns-u7-04",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-023-fun-time-cross-ice-soccer",
+    "name": "Fun Time - Cross-Ice Soccer",
+    "type": "Game",
+    "focuses": [
+      "Skating",
+      "Edge Work",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-04-e.pdf#drill=fun-time-cross-ice-soccer-u7-04",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-024-tag",
+    "name": "Tag",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-05-e.pdf#drill=tag-u7-05",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-025-horse-and-buggy",
+    "name": "Horse and Buggy",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-05-e.pdf#drill=horse-and-buggy-u7-05",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-026-fun-time-cross-ice-scrimmage",
+    "name": "Fun Time - Cross-Ice Scrimmage",
+    "type": "Game",
+    "focuses": [
+      "Skating",
+      "Edge Work",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-05-e.pdf#drill=fun-time-cross-ice-scrimmage-u7-05",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-027-garbage-man",
+    "name": "Garbage Man",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-06-e.pdf#drill=garbage-man-u7-06",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-028-lateral-movement",
+    "name": "Lateral Movement",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Agility"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Agility. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-06-e.pdf#drill=lateral-movement-u7-06",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-029-figure-8-s-inside-edge",
+    "name": "Figure 8's - Inside Edge",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-06-e.pdf#drill=figure-8-s-inside-edge-u7-06",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-030-steal-the-treasure",
+    "name": "Steal the Treasure",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-06-e.pdf#drill=steal-the-treasure-u7-06",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-031-puckhandling-stance-stationary-stickha",
+    "name": "Puckhandling Stance / Stationary Stickhandling",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-07-e.pdf#drill=puckhandling-stance-stationary-stickhandling-u7-07",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-032-figure-8-s-outside-edge",
+    "name": "Figure 8's - Outside Edge",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-07-e.pdf#drill=figure-8-s-outside-edge-u7-07",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-033-forehand-sweepshot",
+    "name": "Forehand Sweepshot",
+    "type": "Station",
+    "focuses": [
+      "Shooting"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Shooting. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-08-e.pdf#drill=forehand-sweepshot-u7-08",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-034-skating-with-puck",
+    "name": "Skating With Puck",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling",
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U7/U9 practice-plan drill. Primary focus: Puck Control, Stickhandling, Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-08-e.pdf#drill=skating-with-puck-u7-08",
+    "favorite": false,
+    "ages": [
+      "U7",
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-035-a-bug-s-life",
+    "name": "A Bug's Life",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-08-e.pdf#drill=a-bug-s-life-u7-08",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-036-warm-up",
+    "name": "Warm Up",
+    "type": "Warmup",
+    "focuses": [
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U7/U9 practice-plan drill. Primary focus: Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-09-e.pdf#drill=warm-up-u7-09",
+    "favorite": false,
+    "ages": [
+      "U7",
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-037-backhand-shot",
+    "name": "Backhand Shot",
+    "type": "Station",
+    "focuses": [
+      "Shooting"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Shooting. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-09-e.pdf#drill=backhand-shot-u7-09",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-038-scatter-puck",
+    "name": "Scatter Puck",
+    "type": "Game",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-09-e.pdf#drill=scatter-puck-u7-09",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-039-starting-with-the-puck",
+    "name": "Starting With the Puck",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling",
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling, Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-09-e.pdf#drill=starting-with-the-puck-u7-09",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-040-inside-out",
+    "name": "Inside Out",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling",
+      "Creativity"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling, Creativity. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-09-e.pdf#drill=inside-out-u7-09",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-041-gliding-with-knee-bend",
+    "name": "Gliding With Knee Bend",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Balance"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Balance. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-09-e.pdf#drill=gliding-with-knee-bend-u7-09",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-042-stationary-puck-control",
+    "name": "Stationary Puck Control",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-09-e.pdf#drill=stationary-puck-control-u7-09",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-043-toilet-bowl-tag",
+    "name": "Toilet Bowl Tag",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-09-e.pdf#drill=toilet-bowl-tag-u7-09",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-044-forehand-and-backhand-shot",
+    "name": "Forehand and Backhand Shot",
+    "type": "Station",
+    "focuses": [
+      "Shooting"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Shooting. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-10-e.pdf#drill=forehand-and-backhand-shot-u7-10",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-045-stationary-stickhandling",
+    "name": "Stationary Stickhandling",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U7/U9 practice-plan drill. Primary focus: Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-10-e.pdf#drill=stationary-stickhandling-u7-10",
+    "favorite": false,
+    "ages": [
+      "U7",
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-046-garbage-dump",
+    "name": "Garbage Dump",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-10-e.pdf#drill=garbage-dump-u7-10",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-047-cross-ice-scrimmage",
+    "name": "Cross-Ice Scrimmage",
+    "type": "Game",
+    "focuses": [
+      "Skating",
+      "Edge Work",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-10-e.pdf#drill=cross-ice-scrimmage-u7-10",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-048-chaos",
+    "name": "Chaos",
+    "type": "Warmup",
+    "focuses": [
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U7/U9 practice-plan drill. Primary focus: Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-11-e.pdf#drill=chaos-u7-11",
+    "favorite": false,
+    "ages": [
+      "U7",
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-049-walking-backwards",
+    "name": "Walking Backwards",
+    "type": "Station",
+    "focuses": [
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-11-e.pdf#drill=walking-backwards-u7-11",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-050-gliding-backwards",
+    "name": "Gliding Backwards",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Balance"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Balance. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-11-e.pdf#drill=gliding-backwards-u7-11",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-051-battleship",
+    "name": "Battleship",
+    "type": "Game",
+    "focuses": [
+      "Battle",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Battle, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-11-e.pdf#drill=battleship-u7-11",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-052-c-cuts-backwards",
+    "name": "C-Cuts Backwards",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-12-e.pdf#drill=c-cuts-backwards-u7-12",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-053-backwards-striding",
+    "name": "Backwards Striding",
+    "type": "Station",
+    "focuses": [
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U7/U9 practice-plan drill. Primary focus: Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-12-e.pdf#drill=backwards-striding-u7-12",
+    "favorite": false,
+    "ages": [
+      "U7",
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-054-stick-checks",
+    "name": "Stick Checks",
+    "type": "Station",
+    "focuses": [
+      "Defense",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Defense, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-12-e.pdf#drill=stick-checks-u7-12",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-055-c-cuts-backwards-around-circle",
+    "name": "C-Cuts Backwards Around Circle",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-12-e.pdf#drill=c-cuts-backwards-around-circle-u7-12",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-056-train-relay",
+    "name": "Train Relay",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-12-e.pdf#drill=train-relay-u7-12",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-057-two-leg-backward-stop",
+    "name": "Two-Leg Backward Stop",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Stopping"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Stopping. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-13-e.pdf#drill=two-leg-backward-stop-u7-13",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-058-weaving-with-the-puck",
+    "name": "Weaving With the Puck",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-13-e.pdf#drill=weaving-with-the-puck-u7-13",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-059-figure-8-s-backwards-inside-edge",
+    "name": "Figure 8's Backwards - Inside Edge",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-13-e.pdf#drill=figure-8-s-backwards-inside-edge-u7-13",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-060-skating-and-shooting",
+    "name": "Skating and Shooting",
+    "type": "Station",
+    "focuses": [
+      "Shooting",
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Shooting, Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-14-e.pdf#drill=skating-and-shooting-u7-14",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-061-tight-turns",
+    "name": "Tight Turns",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7/U9 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-14-e.pdf#drill=tight-turns-u7-14",
+    "favorite": false,
+    "ages": [
+      "U7",
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-062-backwards-tag",
+    "name": "Backwards Tag",
+    "type": "Game",
+    "focuses": [
+      "Skating",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-14-e.pdf#drill=backwards-tag-u7-14",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-063-weaving-with-puck",
+    "name": "Weaving With Puck",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-14-e.pdf#drill=weaving-with-puck-u7-14",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-064-soccer",
+    "name": "Soccer",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-14-e.pdf#drill=soccer-u7-14",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-065-shooting-and-scoring",
+    "name": "Shooting and Scoring",
+    "type": "Station",
+    "focuses": [
+      "Shooting"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Shooting. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-15-e.pdf#drill=shooting-and-scoring-u7-15",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-066-follow-the-leader",
+    "name": "Follow the Leader",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-16-e.pdf#drill=follow-the-leader-u7-16",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-067-v-start-and-tight-turns",
+    "name": "V-Start and Tight Turns",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-16-e.pdf#drill=v-start-and-tight-turns-u7-16",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-068-one-foot-stop",
+    "name": "One Foot Stop",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Balance",
+      "Stopping"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Balance, Stopping. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-16-e.pdf#drill=one-foot-stop-u7-16",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-069-360-s",
+    "name": "360's",
+    "type": "Station",
+    "focuses": [
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-16-e.pdf#drill=360-s-u7-16",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-070-v-start-tight-turns",
+    "name": "V-Start - Tight Turns",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-17-e.pdf#drill=v-start-tight-turns-u7-17",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-071-forehand-pass-and-receive",
+    "name": "Forehand Pass and Receive",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-17-e.pdf#drill=forehand-pass-and-receive-u7-17",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-072-red-light-green-light",
+    "name": "Red Light Green Light",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-17-e.pdf#drill=red-light-green-light-u7-17",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-073-tag-backwards",
+    "name": "Tag - Backwards",
+    "type": "Game",
+    "focuses": [
+      "Skating",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-17-e.pdf#drill=tag-backwards-u7-17",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-074-backhand-pass-and-receive",
+    "name": "Backhand Pass and Receive",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-18-e.pdf#drill=backhand-pass-and-receive-u7-18",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-075-c-cuts-around-circle",
+    "name": "C-Cuts Around Circle",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-18-e.pdf#drill=c-cuts-around-circle-u7-18",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-076-pick-up-puck-on-boards",
+    "name": "Pick Up Puck on Boards",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-18-e.pdf#drill=pick-up-puck-on-boards-u7-18",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-077-scrimmage-cross-ice",
+    "name": "Scrimmage - Cross Ice",
+    "type": "Game",
+    "focuses": [
+      "Skating",
+      "Edge Work",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-18-e.pdf#drill=scrimmage-cross-ice-u7-18",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-078-forehand-pass-receive-backhand-pass-re",
+    "name": "Forehand Pass & Receive / Backhand Pass & Receive",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-19-e.pdf#drill=forehand-pass-receive-backhand-pass-receive-u7-19",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-079-skating-passing",
+    "name": "Skating & Passing",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork",
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Passing, Receiving, Teamwork, Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-19-e.pdf#drill=skating-passing-u7-19",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-080-pairs-passing",
+    "name": "Pairs Passing",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U7/U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-20-e.pdf#drill=pairs-passing-u7-20",
+    "favorite": false,
+    "ages": [
+      "U7",
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-081-circle-keep-away",
+    "name": "Circle Keep Away",
+    "type": "Game",
+    "focuses": [
+      "Puck Protection",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Protection, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-20-e.pdf#drill=circle-keep-away-u7-20",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-082-bank-pass",
+    "name": "Bank Pass",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U7/U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-20-e.pdf#drill=bank-pass-u7-20",
+    "favorite": false,
+    "ages": [
+      "U7",
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-083-piggy-bank-race",
+    "name": "Piggy Bank Race",
+    "type": "Game",
+    "focuses": [
+      "Speed",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Speed, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-20-e.pdf#drill=piggy-bank-race-u7-20",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-084-v-start-tight-turns",
+    "name": "V-Start / Tight Turns",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-20-e.pdf#drill=v-start-tight-turns-u7-20",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-085-one-foot-stop-and-t-push",
+    "name": "One Foot Stop and T-Push",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Balance",
+      "Stopping"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Balance, Stopping. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-21-e.pdf#drill=one-foot-stop-and-t-push-u7-21",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-086-crossovers",
+    "name": "Crossovers",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7/U9 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-21-e.pdf#drill=crossovers-u7-21",
+    "favorite": false,
+    "ages": [
+      "U7",
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-087-impact-pylons",
+    "name": "Impact Pylons",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-21-e.pdf#drill=impact-pylons-u7-21",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-088-changing-direction-1-foot-stop-t-push",
+    "name": "Changing Direction - 1 Foot Stop / T-Push",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Stopping",
+      "Transition"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Stopping, Transition. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-22-e.pdf#drill=changing-direction-1-foot-stop-t-push-u7-22",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-089-changing-direction-backward-v-stop-fro",
+    "name": "Changing Direction - Backward V-Stop / Front Start",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Stopping",
+      "Transition"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Stopping, Transition. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-22-e.pdf#drill=changing-direction-backward-v-stop-front-start-u7-22",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-090-open-ice-carry",
+    "name": "Open Ice Carry",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U7/U9 practice-plan drill. Primary focus: Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-23-e.pdf#drill=open-ice-carry-u7-23",
+    "favorite": false,
+    "ages": [
+      "U7",
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-091-1-foot-backward-stop-t-push",
+    "name": "1 Foot Backward Stop & T-Push",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Stopping"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Stopping. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-23-e.pdf#drill=1-foot-backward-stop-t-push-u7-23",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-092-v-stop-and-front-start",
+    "name": "V-Stop and Front Start",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Stopping"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Stopping. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-23-e.pdf#drill=v-stop-and-front-start-u7-23",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-093-pivots-forward-to-backward-backward-to",
+    "name": "Pivots - Forward to Backward & Backward to Forward",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Transition"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Transition. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-24-e.pdf#drill=pivots-forward-to-backward-backward-to-forward-u7-24",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-094-crossovers-four-pylon-race",
+    "name": "Crossovers - Four Pylon Race",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work",
+      "Speed"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work, Speed. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-24-e.pdf#drill=crossovers-four-pylon-race-u7-24",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-095-pivots-forward-to-backward-backward-to",
+    "name": "Pivots Forward to Backward & Backward to Forward",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Transition"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Transition. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-25-e.pdf#drill=pivots-forward-to-backward-backward-to-forward-u7-25",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-096-crossovers-hi-low",
+    "name": "Crossovers - Hi-Low",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-25-e.pdf#drill=crossovers-hi-low-u7-25",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-097-changing-direction-2-foot-stop",
+    "name": "Changing Direction - 2 Foot Stop",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Stopping",
+      "Transition"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Stopping, Transition. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-25-e.pdf#drill=changing-direction-2-foot-stop-u7-25",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-098-c-cuts-backward-striding",
+    "name": "C-Cuts & Backward Striding",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-25-e.pdf#drill=c-cuts-backward-striding-u7-25",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-099-change-in-direction-1-foot-backward-st",
+    "name": "Change in Direction - 1 Foot Backward Stop",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Stopping"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Stopping. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-25-e.pdf#drill=change-in-direction-1-foot-backward-stop-u7-25",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-100-scrimmage",
+    "name": "Scrimmage",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7/U9 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-25-e.pdf#drill=scrimmage-u7-25",
+    "favorite": false,
+    "ages": [
+      "U7",
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-101-backwards-crossovers",
+    "name": "Backwards Crossovers",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-26-e.pdf#drill=backwards-crossovers-u7-26",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-102-control-puck-with-feet",
+    "name": "Control Puck With Feet",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-26-e.pdf#drill=control-puck-with-feet-u7-26",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-103-stationary-passing-and-receiving",
+    "name": "Stationary Passing and Receiving",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-27-e.pdf#drill=stationary-passing-and-receiving-u7-27",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-104-weave-with-puck",
+    "name": "Weave With Puck",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-27-e.pdf#drill=weave-with-puck-u7-27",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-105-puck-dots",
+    "name": "Puck Dots",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-27-e.pdf#drill=puck-dots-u7-27",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-106-mohawk-on-circles",
+    "name": "Mohawk on Circles",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-27-e.pdf#drill=mohawk-on-circles-u7-27",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-107-stationary-stickhandling-two-pucks",
+    "name": "Stationary Stickhandling - Two Pucks",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-27-e.pdf#drill=stationary-stickhandling-two-pucks-u7-27",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-108-stopping-with-the-puck",
+    "name": "Stopping With the Puck",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling",
+      "Skating",
+      "Stopping"
+    ],
+    "desc": "Official Hockey Canada U7/U9 practice-plan drill. Primary focus: Puck Control, Stickhandling, Skating, Stopping. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-27-e.pdf#drill=stopping-with-the-puck-u7-27",
+    "favorite": false,
+    "ages": [
+      "U7",
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-109-passing-and-receiving-forehand-backhan",
+    "name": "Passing and Receiving - Forehand/Backhand",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-28-e.pdf#drill=passing-and-receiving-forehand-backhand-u7-28",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-110-passing-and-receiving-turn-kneel",
+    "name": "Passing and Receiving - Turn/Kneel",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork",
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Passing, Receiving, Teamwork, Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-28-e.pdf#drill=passing-and-receiving-turn-kneel-u7-28",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-111-lead-pass",
+    "name": "Lead Pass",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-28-e.pdf#drill=lead-pass-u7-28",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-112-skate-and-pass",
+    "name": "Skate and Pass",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork",
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Passing, Receiving, Teamwork, Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-28-e.pdf#drill=skate-and-pass-u7-28",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-113-pond-hockey",
+    "name": "Pond Hockey",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-28-e.pdf#drill=pond-hockey-u7-28",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-114-freeze-tag",
+    "name": "Freeze Tag",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-29-e.pdf#drill=freeze-tag-u7-29",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-115-stationary-passing",
+    "name": "Stationary Passing",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U7/U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-29-e.pdf#drill=stationary-passing-u7-29",
+    "favorite": false,
+    "ages": [
+      "U7",
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-116-wrist-shot-forehand",
+    "name": "Wrist Shot - Forehand",
+    "type": "Station",
+    "focuses": [
+      "Shooting"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Shooting. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-29-e.pdf#drill=wrist-shot-forehand-u7-29",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-117-moving-puck-control-sticks",
+    "name": "Moving Puck Control - Sticks",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-29-e.pdf#drill=moving-puck-control-sticks-u7-29",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-118-moving-puck-control-figure-8-s",
+    "name": "Moving Puck Control - Figure 8's",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-30-e.pdf#drill=moving-puck-control-figure-8-s-u7-30",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-119-skate-pass-shoot",
+    "name": "Skate-Pass-Shoot",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork",
+      "Shooting",
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Passing, Receiving, Teamwork, Shooting, Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-30-e.pdf#drill=skate-pass-shoot-u7-30",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-120-baseball",
+    "name": "Baseball",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U7/U9 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-30-e.pdf#drill=baseball-u7-30",
+    "favorite": false,
+    "ages": [
+      "U7",
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-121-2-foot-stop",
+    "name": "2 Foot Stop",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Stopping"
+    ],
+    "desc": "Official Hockey Canada U7/U9 practice-plan drill. Primary focus: Skating, Stopping. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-31-e.pdf#drill=2-foot-stop-u7-31",
+    "favorite": false,
+    "ages": [
+      "U7",
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-122-wrist-shot-backhand",
+    "name": "Wrist Shot - Backhand",
+    "type": "Station",
+    "focuses": [
+      "Shooting"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Shooting. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-31-e.pdf#drill=wrist-shot-backhand-u7-31",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-123-flip-shot",
+    "name": "Flip Shot",
+    "type": "Station",
+    "focuses": [
+      "Shooting"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Shooting. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-31-e.pdf#drill=flip-shot-u7-31",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-124-puck-dots-toe-drags",
+    "name": "Puck Dots - Toe Drags",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-31-e.pdf#drill=puck-dots-toe-drags-u7-31",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-125-body-fakes",
+    "name": "Body Fakes",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling",
+      "Creativity"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling, Creativity. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-32-e.pdf#drill=body-fakes-u7-32",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-126-puckhandling-combinations",
+    "name": "Puckhandling Combinations",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-32-e.pdf#drill=puckhandling-combinations-u7-32",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-127-stick-fakes",
+    "name": "Stick Fakes",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling",
+      "Creativity"
+    ],
+    "desc": "Official Hockey Canada U7 practice-plan drill. Primary focus: Puck Control, Stickhandling, Creativity. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u7-program/downloads/2020/u7-practice-plan-32-e.pdf#drill=stick-fakes-u7-32",
+    "favorite": false,
+    "ages": [
+      "U7"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-128-balance-and-skating",
+    "name": "Balance and Skating",
+    "type": "Warmup",
+    "focuses": [
+      "Skating",
+      "Balance"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Balance. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-01-e.pdf#drill=balance-and-skating-u9-01",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-129-figure-8-s-inside-edge",
+    "name": "Figure 8's Inside Edge",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-01-e.pdf#drill=figure-8-s-inside-edge-u9-01",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-130-shootout",
+    "name": "Shootout",
+    "type": "Game",
+    "focuses": [
+      "Shooting",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Shooting, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-01-e.pdf#drill=shootout-u9-01",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-131-scrimmage-3-on-3-cross-ice",
+    "name": "Scrimmage - 3 on 3 Cross Ice",
+    "type": "Game",
+    "focuses": [
+      "Skating",
+      "Edge Work",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Edge Work, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-01-e.pdf#drill=scrimmage-3-on-3-cross-ice-u9-01",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-132-glide-on-one-skate",
+    "name": "Glide on One Skate",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Balance"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Balance. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-02-e.pdf#drill=glide-on-one-skate-u9-02",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-133-front-v-start",
+    "name": "Front V-Start",
+    "type": "Station",
+    "focuses": [
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-02-e.pdf#drill=front-v-start-u9-02",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-134-c-cuts-around-circle-inside-foot",
+    "name": "C-Cuts Around Circle - Inside Foot",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-02-e.pdf#drill=c-cuts-around-circle-inside-foot-u9-02",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-135-stationary-pairs-passing",
+    "name": "Stationary Pairs Passing",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-02-e.pdf#drill=stationary-pairs-passing-u9-02",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-136-lateral-crossovers-over-stick",
+    "name": "Lateral Crossovers - Over Stick",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Agility",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Agility, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-02-e.pdf#drill=lateral-crossovers-over-stick-u9-02",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-137-asteroids",
+    "name": "Asteroids",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-03-e.pdf#drill=asteroids-u9-03",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-138-rabbit-coyote",
+    "name": "Rabbit / Coyote",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-03-e.pdf#drill=rabbit-coyote-u9-03",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-139-scrimmage-4-on-4",
+    "name": "Scrimmage - 4 on 4",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-03-e.pdf#drill=scrimmage-4-on-4-u9-03",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-140-weave",
+    "name": "Weave",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-04-e.pdf#drill=weave-u9-04",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-141-push-and-glide",
+    "name": "Push and Glide",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Balance"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Balance. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-04-e.pdf#drill=push-and-glide-u9-04",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-142-forward-crossovers",
+    "name": "Forward Crossovers",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-04-e.pdf#drill=forward-crossovers-u9-04",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-143-tight-turns-edge-control",
+    "name": "Tight Turns / Edge Control",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-05-e.pdf#drill=tight-turns-edge-control-u9-05",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-144-backwards-c-cuts",
+    "name": "Backwards C-Cuts",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-05-e.pdf#drill=backwards-c-cuts-u9-05",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-145-heel-to-heel-glide",
+    "name": "Heel to Heel Glide",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Balance"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Balance. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-05-e.pdf#drill=heel-to-heel-glide-u9-05",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-146-fort-knox",
+    "name": "Fort Knox",
+    "type": "Game",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Control, Stickhandling, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-05-e.pdf#drill=fort-knox-u9-05",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-147-backwards-c-cuts-backwards-stopping",
+    "name": "Backwards C-Cuts / Backwards Stopping",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work",
+      "Stopping"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Edge Work, Stopping. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-06-e.pdf#drill=backwards-c-cuts-backwards-stopping-u9-06",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-148-skill-drill",
+    "name": "Skill Drill",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-06-e.pdf#drill=skill-drill-u9-06",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-149-chuck-wagon-races",
+    "name": "Chuck Wagon Races",
+    "type": "Game",
+    "focuses": [
+      "Speed",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Speed, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-07-e.pdf#drill=chuck-wagon-races-u9-07",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-150-forward-backwards-pivots",
+    "name": "Forward / Backwards Pivots",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Transition"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Transition. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-07-e.pdf#drill=forward-backwards-pivots-u9-07",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-151-skating",
+    "name": "Skating",
+    "type": "Station",
+    "focuses": [
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-07-e.pdf#drill=skating-u9-07",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-152-c-cuts-crossunders",
+    "name": "C-Cuts - Crossunders",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-07-e.pdf#drill=c-cuts-crossunders-u9-07",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-153-stick-handling",
+    "name": "Stick Handling",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-07-e.pdf#drill=stick-handling-u9-07",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-154-tight-turns-acceleration",
+    "name": "Tight Turns Acceleration",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work",
+      "Speed"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Edge Work, Speed. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-08-e.pdf#drill=tight-turns-acceleration-u9-08",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-155-lateral-crossovers",
+    "name": "Lateral Crossovers",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Agility",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Agility, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-08-e.pdf#drill=lateral-crossovers-u9-08",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-156-agility-course",
+    "name": "Agility Course",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Agility"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Agility. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-08-e.pdf#drill=agility-course-u9-08",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-157-5-player-passing",
+    "name": "5 Player Passing",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-08-e.pdf#drill=5-player-passing-u9-08",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-158-pivots",
+    "name": "Pivots",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Transition"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Transition. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-08-e.pdf#drill=pivots-u9-08",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-159-moving-to-space",
+    "name": "Moving to Space",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-09-e.pdf#drill=moving-to-space-u9-09",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-160-stationary-shooting",
+    "name": "Stationary Shooting",
+    "type": "Station",
+    "focuses": [
+      "Shooting"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Shooting. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-09-e.pdf#drill=stationary-shooting-u9-09",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-161-body-and-head-fakes",
+    "name": "Body and Head Fakes",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling",
+      "Creativity"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Control, Stickhandling, Creativity. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-09-e.pdf#drill=body-and-head-fakes-u9-09",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-162-half-ice-scrimmage",
+    "name": "Half Ice Scrimmage",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-09-e.pdf#drill=half-ice-scrimmage-u9-09",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-163-agility-skate",
+    "name": "Agility Skate",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Agility"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Agility. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-10-e.pdf#drill=agility-skate-u9-10",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-164-short-pass-long-pass",
+    "name": "Short Pass - Long Pass",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-10-e.pdf#drill=short-pass-long-pass-u9-10",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-165-1-2-3-on-0-relay-race",
+    "name": "1-2-3 on 0 - Relay Race",
+    "type": "Game",
+    "focuses": [
+      "Speed",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Speed, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-10-e.pdf#drill=1-2-3-on-0-relay-race-u9-10",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-166-backwards-cross-over-start-agility-mov",
+    "name": "Backwards Cross-over Start - Agility Movement",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Agility",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Agility, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-11-e.pdf#drill=backwards-cross-over-start-agility-movement-u9-11",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-167-pairs-passing-pass-and-follow",
+    "name": "Pairs Passing - Pass and Follow",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-11-e.pdf#drill=pairs-passing-pass-and-follow-u9-11",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-168-shooting",
+    "name": "Shooting",
+    "type": "Station",
+    "focuses": [
+      "Shooting"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Shooting. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-11-e.pdf#drill=shooting-u9-11",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-169-backward-crossovers-reaching",
+    "name": "Backward Crossovers - Reaching",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-12-e.pdf#drill=backward-crossovers-reaching-u9-12",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-170-pass-and-move",
+    "name": "Pass and Move",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-12-e.pdf#drill=pass-and-move-u9-12",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-171-tight-turn-puck-control",
+    "name": "Tight Turn Puck Control",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling",
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Control, Stickhandling, Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-13-e.pdf#drill=tight-turn-puck-control-u9-13",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-172-telescoping-passing",
+    "name": "Telescoping Passing",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-13-e.pdf#drill=telescoping-passing-u9-13",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-173-relay-race",
+    "name": "Relay Race",
+    "type": "Game",
+    "focuses": [
+      "Speed",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Speed, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-13-e.pdf#drill=relay-race-u9-13",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-174-pass-and-shoot",
+    "name": "Pass and Shoot",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork",
+      "Shooting"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork, Shooting. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-13-e.pdf#drill=pass-and-shoot-u9-13",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-175-2-foot-stop-crossover-start",
+    "name": "2 Foot Stop / Crossover Start",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work",
+      "Stopping"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Edge Work, Stopping. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-13-e.pdf#drill=2-foot-stop-crossover-start-u9-13",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-176-flip-pass",
+    "name": "Flip Pass",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-13-e.pdf#drill=flip-pass-u9-13",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-177-1-on-1-deking",
+    "name": "1 on 1 Deking",
+    "type": "Station",
+    "focuses": [
+      "Defense",
+      "Hockey Sense",
+      "Battle"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Defense, Hockey Sense, Battle. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-13-e.pdf#drill=1-on-1-deking-u9-13",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-178-faking",
+    "name": "Faking",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-14-e.pdf#drill=faking-u9-14",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-179-flip-pass-and-move",
+    "name": "Flip Pass and Move",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-14-e.pdf#drill=flip-pass-and-move-u9-14",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-180-backwards-stopping",
+    "name": "Backwards Stopping",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Stopping"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Stopping. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-14-e.pdf#drill=backwards-stopping-u9-14",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-181-pass-and-follow",
+    "name": "Pass and Follow",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-15-e.pdf#drill=pass-and-follow-u9-15",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-182-backwards-lateral-crossovers",
+    "name": "Backwards Lateral Crossovers",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Agility",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Agility, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-15-e.pdf#drill=backwards-lateral-crossovers-u9-15",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-183-shooting-while-moving",
+    "name": "Shooting While Moving",
+    "type": "Station",
+    "focuses": [
+      "Shooting"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Shooting. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-15-e.pdf#drill=shooting-while-moving-u9-15",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-184-mirror-drill",
+    "name": "Mirror Drill",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-16-e.pdf#drill=mirror-drill-u9-16",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-185-pass-and-move-1",
+    "name": "Pass and Move - 1",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-16-e.pdf#drill=pass-and-move-1-u9-16",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-186-pass-and-move-2",
+    "name": "Pass and Move - 2",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-16-e.pdf#drill=pass-and-move-2-u9-16",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-187-scrimmage-full-ice",
+    "name": "Scrimmage - Full Ice",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-16-e.pdf#drill=scrimmage-full-ice-u9-16",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-188-barteaux-set-up",
+    "name": "Barteaux Set-up",
+    "type": "Warmup",
+    "focuses": [
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-17-e.pdf#drill=barteaux-set-up-u9-17",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-189-angling",
+    "name": "Angling",
+    "type": "Station",
+    "focuses": [
+      "Defense",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Defense, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-17-e.pdf#drill=angling-u9-17",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-190-give-and-go",
+    "name": "Give and Go",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-17-e.pdf#drill=give-and-go-u9-17",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-191-pass-behind-pull-puck-through-legs",
+    "name": "Pass Behind - Pull Puck Through Legs",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork",
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork, Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-17-e.pdf#drill=pass-behind-pull-puck-through-legs-u9-17",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-192-stationary-stick-checking",
+    "name": "Stationary Stick Checking",
+    "type": "Station",
+    "focuses": [
+      "Defense",
+      "Hockey Sense",
+      "Battle"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Defense, Hockey Sense, Battle. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-18-e.pdf#drill=stationary-stick-checking-u9-18",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-193-follow-your-pass",
+    "name": "Follow Your Pass",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Player 1 starts out of the corner with puck. At the middle of the ice give pass to the player set up on the diagonal line and follow the pass. Once player receives a pass they move quickly across ice to give next pass. Focus on quick feet, driving the net with the puck and tap the post to finish.",
+    "layout": "hc-follow-your-pass-layout.png",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-18-e.pdf#drill=follow-your-pass-u9-18",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-194-puck-control",
+    "name": "Puck Control",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-18-e.pdf#drill=puck-control-u9-18",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-195-deflections",
+    "name": "Deflections",
+    "type": "Station",
+    "focuses": [
+      "Shooting",
+      "Rebounds"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Shooting, Rebounds. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-18-e.pdf#drill=deflections-u9-18",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-196-mario-moves",
+    "name": "Mario Moves",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling",
+      "Creativity"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Control, Stickhandling, Creativity. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-19-e.pdf#drill=mario-moves-u9-19",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-197-4-step-quick-feet",
+    "name": "4 Step Quick Feet",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Agility",
+      "Speed"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Agility, Speed. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-19-e.pdf#drill=4-step-quick-feet-u9-19",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-198-1-2-3-on-0-relay",
+    "name": "1-2-3 on 0 Relay",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-19-e.pdf#drill=1-2-3-on-0-relay-u9-19",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-199-passing",
+    "name": "Passing",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-19-e.pdf#drill=passing-u9-19",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-200-outside-in-inside-out-drive-delay-part",
+    "name": "Outside In / Inside Out / Drive / Delay - Part I",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling",
+      "Creativity",
+      "Puck Protection"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Control, Stickhandling, Creativity, Puck Protection. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-20-e.pdf#drill=outside-in-inside-out-drive-delay-part-i-u9-20",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-201-outside-in-inside-out-drive-delay-part",
+    "name": "Outside In / Inside Out / Drive / Delay - Part II",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling",
+      "Creativity",
+      "Puck Protection"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Control, Stickhandling, Creativity, Puck Protection. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-20-e.pdf#drill=outside-in-inside-out-drive-delay-part-ii-u9-20",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-202-shooting-in-motion",
+    "name": "Shooting In Motion",
+    "type": "Station",
+    "focuses": [
+      "Shooting"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Shooting. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-20-e.pdf#drill=shooting-in-motion-u9-20",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-203-moe-mania",
+    "name": "Moe Mania",
+    "type": "Warmup",
+    "focuses": [
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-21-e.pdf#drill=moe-mania-u9-21",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-204-gap-mirroring",
+    "name": "Gap Mirroring",
+    "type": "Station",
+    "focuses": [
+      "Defense",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Defense, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-21-e.pdf#drill=gap-mirroring-u9-21",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-205-pass-behind-off-skate-to-stick",
+    "name": "Pass Behind - Off Skate to Stick",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork",
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork, Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-21-e.pdf#drill=pass-behind-off-skate-to-stick-u9-21",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-206-intro-to-1-on-1",
+    "name": "Intro to 1 on 1",
+    "type": "Station",
+    "focuses": [
+      "Defense",
+      "Hockey Sense",
+      "Battle"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Defense, Hockey Sense, Battle. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-21-e.pdf#drill=intro-to-1-on-1-u9-21",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-207-support-passing",
+    "name": "Support Passing",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-22-e.pdf#drill=support-passing-u9-22",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-208-pig-in-the-middle",
+    "name": "Pig in the Middle",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-22-e.pdf#drill=pig-in-the-middle-u9-22",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-209-two-man-drive",
+    "name": "Two Man Drive",
+    "type": "Station",
+    "focuses": [
+      "Puck Protection"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Protection. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-22-e.pdf#drill=two-man-drive-u9-22",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-210-wrist-shot",
+    "name": "Wrist Shot",
+    "type": "Station",
+    "focuses": [
+      "Shooting"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Shooting. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-22-e.pdf#drill=wrist-shot-u9-22",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-211-one-man-drive",
+    "name": "One Man Drive",
+    "type": "Station",
+    "focuses": [
+      "Puck Protection"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Protection. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-22-e.pdf#drill=one-man-drive-u9-22",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-212-facing-goal",
+    "name": "Facing Goal",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-23-e.pdf#drill=facing-goal-u9-23",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-213-facing-inside-shoulder",
+    "name": "Facing Inside Shoulder",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-23-e.pdf#drill=facing-inside-shoulder-u9-23",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-214-facing-goal-and-pivot",
+    "name": "Facing Goal and Pivot",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Transition"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Transition. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-23-e.pdf#drill=facing-goal-and-pivot-u9-23",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-215-breakout-introduction",
+    "name": "Breakout Introduction",
+    "type": "Station",
+    "focuses": [
+      "Breakouts",
+      "Passing",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Breakouts, Passing, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-23-e.pdf#drill=breakout-introduction-u9-23",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-216-3-man-drive",
+    "name": "3 Man Drive",
+    "type": "Station",
+    "focuses": [
+      "Puck Protection"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Protection. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-23-e.pdf#drill=3-man-drive-u9-23",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-217-2-on-0-down-low",
+    "name": "2 on 0 Down Low",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-24-e.pdf#drill=2-on-0-down-low-u9-24",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-218-sweeping-sticks",
+    "name": "Sweeping Sticks",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-24-e.pdf#drill=sweeping-sticks-u9-24",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-219-relay-2-on-2",
+    "name": "Relay 2 on 2",
+    "type": "Game",
+    "focuses": [
+      "Defense",
+      "Hockey Sense",
+      "Battle",
+      "Compete",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Defense, Hockey Sense, Battle, Compete, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-24-e.pdf#drill=relay-2-on-2-u9-24",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-220-cross-ice-support",
+    "name": "Cross Ice Support",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork",
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork, Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-24-e.pdf#drill=cross-ice-support-u9-24",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-221-moving-puck-control",
+    "name": "Moving Puck Control",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-24-e.pdf#drill=moving-puck-control-u9-24",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-222-stick-relay",
+    "name": "Stick Relay",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-24-e.pdf#drill=stick-relay-u9-24",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-223-full-ice-batchko",
+    "name": "Full Ice Batchko",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-24-e.pdf#drill=full-ice-batchko-u9-24",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-224-crossover-progression",
+    "name": "Crossover Progression",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-25-e.pdf#drill=crossover-progression-u9-25",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-225-stride-crossover-combo",
+    "name": "Stride / Crossover Combo",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-25-e.pdf#drill=stride-crossover-combo-u9-25",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-226-backward-crossover-progression",
+    "name": "Backward Crossover Progression",
+    "type": "Station",
+    "focuses": [
+      "Skating",
+      "Edge Work"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Skating, Edge Work. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-25-e.pdf#drill=backward-crossover-progression-u9-25",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-227-combo-skate-pass-shoot",
+    "name": "Combo Skate Pass/Shoot",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork",
+      "Shooting",
+      "Skating"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork, Shooting, Skating. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-25-e.pdf#drill=combo-skate-pass-shoot-u9-25",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-228-offensive-fakes",
+    "name": "Offensive Fakes",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling",
+      "Creativity"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Control, Stickhandling, Creativity. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-25-e.pdf#drill=offensive-fakes-u9-25",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-229-shootout-competition",
+    "name": "Shootout Competition",
+    "type": "Game",
+    "focuses": [
+      "Shooting",
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Shooting, Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-25-e.pdf#drill=shootout-competition-u9-25",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-230-1-on-1-body-position-shootout",
+    "name": "1 on 1 Body Position Shootout",
+    "type": "Game",
+    "focuses": [
+      "Shooting",
+      "Puck Protection",
+      "Defense",
+      "Hockey Sense",
+      "Battle",
+      "Compete"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Shooting, Puck Protection, Defense, Hockey Sense, Battle, Compete. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-25-e.pdf#drill=1-on-1-body-position-shootout-u9-25",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-231-puck-control-fakes",
+    "name": "Puck Control / Fakes",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling",
+      "Creativity"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Control, Stickhandling, Creativity. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-26-e.pdf#drill=puck-control-fakes-u9-26",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-232-assessing-checking-skills",
+    "name": "Assessing Checking Skills",
+    "type": "Station",
+    "focuses": [
+      "Defense",
+      "Hockey Sense",
+      "Battle"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Defense, Hockey Sense, Battle. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-26-e.pdf#drill=assessing-checking-skills-u9-26",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-233-net-drive-progression",
+    "name": "Net Drive Progression",
+    "type": "Station",
+    "focuses": [
+      "Puck Protection"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Protection. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-26-e.pdf#drill=net-drive-progression-u9-26",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-234-net-drive-tactical-level",
+    "name": "Net Drive - Tactical Level",
+    "type": "Station",
+    "focuses": [
+      "Puck Protection"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Protection. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-26-e.pdf#drill=net-drive-tactical-level-u9-26",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-235-net-drive-technical-level",
+    "name": "Net Drive - Technical Level",
+    "type": "Station",
+    "focuses": [
+      "Puck Protection"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Protection. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-27-e.pdf#drill=net-drive-technical-level-u9-27",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-236-fakes-and-dekes",
+    "name": "Fakes and Dekes",
+    "type": "Station",
+    "focuses": [
+      "Puck Control",
+      "Stickhandling",
+      "Creativity"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Control, Stickhandling, Creativity. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-27-e.pdf#drill=fakes-and-dekes-u9-27",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-237-net-drive-efficient-level",
+    "name": "Net Drive - Efficient Level",
+    "type": "Station",
+    "focuses": [
+      "Puck Protection"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Protection. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-27-e.pdf#drill=net-drive-efficient-level-u9-27",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-238-circle-relay-3-on-3",
+    "name": "Circle Relay - 3 on 3",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-27-e.pdf#drill=circle-relay-3-on-3-u9-27",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-239-checking-drill-stick-checks",
+    "name": "Checking Drill - Stick Checks",
+    "type": "Station",
+    "focuses": [
+      "Defense",
+      "Hockey Sense",
+      "Battle"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Defense, Hockey Sense, Battle. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-28-e.pdf#drill=checking-drill-stick-checks-u9-28",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-240-net-drive",
+    "name": "Net Drive",
+    "type": "Station",
+    "focuses": [
+      "Puck Protection"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Puck Protection. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-28-e.pdf#drill=net-drive-u9-28",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-241-checking-angling",
+    "name": "Checking - Angling",
+    "type": "Station",
+    "focuses": [
+      "Defense",
+      "Hockey Sense",
+      "Battle"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Defense, Hockey Sense, Battle. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-28-e.pdf#drill=checking-angling-u9-28",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-242-checking-gap-control",
+    "name": "Checking - Gap Control",
+    "type": "Station",
+    "focuses": [
+      "Defense",
+      "Hockey Sense",
+      "Battle"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Defense, Hockey Sense, Battle. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-28-e.pdf#drill=checking-gap-control-u9-28",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-243-checking-backcheck",
+    "name": "Checking - Backcheck",
+    "type": "Station",
+    "focuses": [
+      "Defense",
+      "Hockey Sense",
+      "Battle",
+      "Backchecking"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Defense, Hockey Sense, Battle, Backchecking. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-28-e.pdf#drill=checking-backcheck-u9-28",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-244-2-on-1",
+    "name": "2 on 1",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-29-e.pdf#drill=2-on-1-u9-29",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-245-2-on-2",
+    "name": "2 on 2",
+    "type": "Station",
+    "focuses": [
+      "Defense",
+      "Hockey Sense",
+      "Battle"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Defense, Hockey Sense, Battle. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-29-e.pdf#drill=2-on-2-u9-29",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-246-1-on-1",
+    "name": "1 on 1",
+    "type": "Station",
+    "focuses": [
+      "Defense",
+      "Hockey Sense",
+      "Battle"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Defense, Hockey Sense, Battle. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-30-e.pdf#drill=1-on-1-u9-30",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-247-1-on-0-with-backchecker",
+    "name": "1 on 0 With Backchecker",
+    "type": "Station",
+    "focuses": [
+      "Defense",
+      "Hockey Sense",
+      "Backchecking"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Defense, Hockey Sense, Backchecking. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-30-e.pdf#drill=1-on-0-with-backchecker-u9-30",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-248-give-and-go-puck-control",
+    "name": "Give and Go / Puck Control",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork",
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork, Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-31-e.pdf#drill=give-and-go-puck-control-u9-31",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-249-combo-technical-skill-drill",
+    "name": "Combo - Technical Skill Drill",
+    "type": "Station",
+    "focuses": [
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-31-e.pdf#drill=combo-technical-skill-drill-u9-31",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-250-puck-support",
+    "name": "Puck Support",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork",
+      "Puck Control",
+      "Stickhandling"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork, Puck Control, Stickhandling. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-31-e.pdf#drill=puck-support-u9-31",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-251-montreal-drill",
+    "name": "Montreal Drill",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-32-e.pdf#drill=montreal-drill-u9-32",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-252-pass-with-accuracy",
+    "name": "Pass With Accuracy",
+    "type": "Station",
+    "focuses": [
+      "Passing",
+      "Receiving",
+      "Teamwork"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Passing, Receiving, Teamwork. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-32-e.pdf#drill=pass-with-accuracy-u9-32",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  },
+  {
+    "id": "hc-253-controlled-scrimmage",
+    "name": "Controlled Scrimmage",
+    "type": "Game",
+    "focuses": [
+      "Compete",
+      "Teamwork",
+      "Hockey Sense"
+    ],
+    "desc": "Official Hockey Canada U9 practice-plan drill. Primary focus: Compete, Teamwork, Hockey Sense. Open the source link for Hockey Canada's complete instructions and diagram.",
+    "layout": "",
+    "source": "Hockey Canada",
+    "sourceUrl": "https://cdn.hockeycanada.ca/hockey-canada/Hockey-Programs/Coaching/u9-program/downloads/2020/u9-practice-plan-32-e.pdf#drill=controlled-scrimmage-u9-32",
+    "favorite": false,
+    "ages": [
+      "U9"
+    ],
+    "catalog": true
+  }
+]

@@ -1,0 +1,19 @@
+This is the GitHub/Netlify version of the Grizzlies Practice Planner.
+
+UPLOAD TO GITHUB:
+1. Extract this ZIP.
+2. Create a GitHub repository.
+3. Upload the CONTENTS of this folder to the repository root.
+4. Commit to the main branch.
+
+CONNECT EXISTING NETLIFY SITE:
+Project configuration > Developer settings > Continuous deployment > Repository > Link repository
+
+Select the GitHub repository you created.
+
+Netlify settings come from netlify.toml:
+- No build command
+- Publish directory: public
+- Functions directory: netlify/functions
+
+No Node.js installation is needed on your computer.
